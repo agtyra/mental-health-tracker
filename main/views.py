@@ -10,7 +10,7 @@ def show_main(request):
 
     context = {
         'name': 'Kezia Salsalina Agtyra Sebayang',
-        'class': 'PBP KKI',
+        'class': 'PBD KKI',
         'npm': '2306172086',
         'mood_entries': mood_entries
     }
